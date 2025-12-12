@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered OS Performance Analyzer",
+  "description": "A sophisticated dashboard for real-time monitoring of OS processes. It features live charts for CPU, RAM, Disk, and Network usage, identifies top consuming processes, detects anomalies, and provides AI-driven performance forecasts and recommendations.",
+  "requestFramePermissions": []
+}
